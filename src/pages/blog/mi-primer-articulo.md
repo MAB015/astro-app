@@ -1,6 +1,6 @@
 ---
 title: 'Contenido de la página'
-layout: '.../layout/layout'
+# layout: '../../layouts/Layout'
 ---
 
 # Este es un ejemplo de articulo
